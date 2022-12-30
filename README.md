@@ -1,0 +1,2 @@
+# sancoin
+A cripto news
